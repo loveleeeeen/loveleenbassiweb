@@ -6,7 +6,9 @@ import { BrowserRouter as Router, Route, Link, Routes } from 'react-router-dom';
 // import './App.css';
 // import { ImageGroup } from 'semantic-ui-react';
 import './NavBar.css';
+import './NavBar-Media.css';
 import './Footer.css';
+import './Footer-Media.css';
 
 import Home from './Pages/Home';
 import ResumePage from './Pages/ResumePage';
