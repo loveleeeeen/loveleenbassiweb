@@ -1,0 +1,89 @@
+@media (max-width: 768px) {
+    .table-container {
+        height: 100%;
+        width: 100%;
+        box-sizing: border-box;
+        padding: 50px 20px 50px 20px;
+        display: flex;
+    
+        /* border: 10px solid greenyellow; */
+      }
+    
+      .table-title{
+        font-size: 40px;
+        font-weight: bold;
+      }
+    
+    /* .table tbody{
+        border: 10px solid slateblue;
+        box-sizing: border-box;
+      padding: 150px 200px 100px 200px;
+      display: flex;
+    } */
+    
+    
+    .table {
+        border-collapse: collapse;
+        font-size: 16px;
+        width: 100%;
+        display: block;
+        /* border: 10px solid purple; */
+        /* box-sizing: border-box;
+      padding: 150px 200px 100px 200px;
+      display: flex; */
+      }
+    
+    
+      .table th, .table td {
+        /* padding: 10px; */
+        /* border: 10px solid black; */
+        /* width: 50%; */
+        /* vertical-align: top; */
+        /* display: block; */
+      }
+      .table th {
+        font-weight: bold;
+      }
+    
+    .add-border{
+        border-bottom: 1px solid grey;
+        /* width: 100%; */
+        /* border: 5px solid brown; */
+    }
+    
+      .first-col{
+        text-align: left;
+        /* width: fit-content; */
+        width: 100%;
+        font-size: 30px;
+        display: block;
+        /* border: 15px solid darkcyan; */
+      }
+    
+      .sec-col{
+        width: 100%;
+        /* border: 5px solid yellowgreen; */
+        /* display: block; */
+        /* flex-wrap: wrap;
+        word-break: break-word; */
+      }
+    
+      .dates{
+        width: 5%;
+        /* text-align: left; */
+      }
+    
+      .info{
+        text-align: left;
+        word-break: break-word;
+        width: 90%;
+      }
+    
+    .position{
+        font-weight: bold;
+        font-size: 19px;
+    }
+    .comp-name {
+      font-style: italic;
+    }
+}

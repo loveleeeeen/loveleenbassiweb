@@ -4,6 +4,7 @@ import homeProfileImg from '../home-imgs/me.jpg';
 import { Link } from 'react-router-dom';
 // import { BrowserRouter as Router, Switch, Route, Routes } from 'react-router-dom';
 import './Home.css';
+import './Home-Media.css';
 // import { ImageGroup } from 'semantic-ui-react';
 
 

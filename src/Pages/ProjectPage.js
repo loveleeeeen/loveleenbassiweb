@@ -1,5 +1,6 @@
 import React from 'react';
 import './ProjectPage.css';
+import './Project-Media.css';
 
 import NeuroTechIcon from'../Project-Imgs/NeuroTech-Icon.png';
 import CaptionsIcon from '../Project-Imgs/Captions-Icon.png';
