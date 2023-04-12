@@ -16,7 +16,7 @@ function Home() {
           <div className='body-left'>
             <div className='home-img-align'>
               <div className='home-img'>
-                <img src={homeProfileImg} alt='Loveleen Bassi' style={{height: '100%', width: 'auto', filter: 'grayscale(100%)', transform: 'scale(1.15)', margin:'-30px'}} />
+                <img src={homeProfileImg} alt='Loveleen Bassi' className='my-img' />
               </div>
             </div>
           </div>
