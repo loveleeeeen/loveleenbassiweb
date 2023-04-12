@@ -218,6 +218,7 @@ max-height: 150px;
       /* margin-right: 18px; */
       /* border: 10px solid black; */
       text-decoration: none;
+      color: black;
       display: flex;
       justify-content: center;
       align-items: center;
