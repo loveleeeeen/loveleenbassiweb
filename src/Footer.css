@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Signika+Negative:wght@300;400;500;600;700&display=swap');
+
+.footer-container {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    background-color: #F3F3F3;  
+    border-top: 1px solid grey;
+    font-family: 'Signika Negative', sans-serif;
+}
+
+.footer-table{
+    /* border: 10px solid purple; */
+    width: 100vw;
+    height: 150px;
+    text-align: center;
+    /* padding-left: 10px; */
+    /* vertical-align: top; */
+}
+
+.tableBody {
+    /* border: 20px solid burlywood; */
+    /* padding-left: 100px; */
+}
+
+
+.col-one, .col-two, .col-three, .col-four {
+    /* width: 25%; */
+    /* text-align: left; */
+    /* border-bottom: 1px solid black; */
+}
+
+.col-three {
+    /* border: 10px solid palegreen; */
+    height: 100px;
+}
+.footer-icons {
+    /* border: 10px solid blue; */
+    height: 35px;
+
+}
+

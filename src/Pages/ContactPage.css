@@ -1,0 +1,42 @@
+.Contact-App {
+    /* text-align: center; */
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    font-family: 'Signika Negative', sans-serif;
+    /* border: 10px solid green; */
+    /* box-sizing: border-box; */
+  }
+  .Contact-Container {
+    background-color: #F3F3F3;  
+    /* background-color: yellowgreen; */
+    height: 100vh ; /* Subtract the height of the navigation bar from the container's height */
+    width: 100vw;
+    display: flex;
+    flex-direction: column;
+    /* border: 10px solid darkblue; */
+    box-sizing: border-box;
+  }
+  
+.Contact-Align {
+    height: 100%;
+    width: 100%;
+    box-sizing: border-box;
+    padding: 150px 200px 100px 200px;
+    display: flex;
+
+    /* border: 10px solid greenyellow; */
+}
+
+.contact-left {
+    border: 10px solid red;
+    width: 50%;
+
+}
+
+.contact-right {
+    border: 10px solid blue;
+    width: 50%;
+    
+}
