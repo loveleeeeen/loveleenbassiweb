@@ -27,7 +27,7 @@ function Home() {
                 <p className='home-text-align'><span className='home-2'>A Bit About Me</span></p>
                 <p className='home-text-aligns'>
                   <span className='home-3'>
-                  I recently graduated from UC Santa Cruz with a BS in Computer Science. I'm passionate about using technology to solve problems and create innovative solutions. Some of my key interests in the field include web development, data analytics, and human-computer interation. 
+                  I recently graduated from UC Santa Cruz with a BS in Computer Science. I'm passionate about using technology to solve problems and create innovative solutions. Some of my key interests in the field include web development, data analytics, and human-computer interaction. 
                   {/* In my free time, I enjoy exploring new programming languages and frameworks, as well as React.js, , and [Hobby 3].  */}
                   {/* <br/>Thanks for visiting my website, and feel free to get in touch if you'd like to learn more! */}
                   </span>
